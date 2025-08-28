@@ -12,6 +12,3 @@ mobile_navi_img.addEventListener("click",function(){
     mobile_navi.style.display = "none";
 });
  
- 
- 
- 

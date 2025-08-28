@@ -15,7 +15,7 @@ body{
 main{
     width: 100%; 
     max-width: 1920px;
-    background-color: black;
+    background-color: #191919;
     margin: 0 auto;
     box-sizing: border-box;
     
@@ -252,7 +252,7 @@ main{
     height: 10px;
 }
 div>p{
-color: #000;
+color: #191919;
 font-size: 50px;
 text-align: center;
 }
@@ -264,7 +264,7 @@ div>h3{
 .csmain_pl>div{
     width: calc(23% - 30px);
     height: 538px;
-    background-color: #000;
+    background-color: #191919;
     border-radius: 12px;
 }
 .csmain1_pl img{

@@ -19,7 +19,7 @@ main{
 }
 .main_top{
     width: 100%; height:80vh;
-    background-image: url(./../IMG/seat_info_img2.png.jpg);
+    background-image: url(./../img/seat_info_img2.png.jpg);
     background-repeat: no-repeat;
     background-size: 1920px auto;
     background-position: center;

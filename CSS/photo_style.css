@@ -21,7 +21,7 @@ main{
 }
 .main_top{
     width: 100%; height:80vh;
-    background-image: url(./../IMG/photo_mian_top.jpg);
+    background-image: url(./../img/photo_mian_top.jpg);
     background-repeat: no-repeat;
     background-size: 1920px auto;
     display: flex;

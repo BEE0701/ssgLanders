@@ -271,6 +271,27 @@ header .d_li_f img{
     
 }
 
+.d_sec_mobile .d_mobile_nav1{
+    padding-left: 20px;
+}
+.d_sec_mobile .d_mobile_nav1>li{
+    padding: 20px 0;
+
+}
+.d_sec_mobile .d_mobile_nav2{
+    padding-left: 20px;
+}
+.d_sec_mobile .d_mobile_nav2 >li{
+    padding: 20px 0;
+
+}
+.d_sec_mobile .d_mobile_nav3{
+    padding-left: 20px;
+}
+.d_sec_mobile .d_mobile_nav3>li{
+    padding: 20px 0;
+
+}
 .d_sec_mobile .d_mobile_nav4{
     padding-left: 20px;
 }
