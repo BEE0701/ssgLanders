@@ -1,5 +1,5 @@
 
-<div sytle="background-color": #191919 ;align= "center">
+<div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=slice&color=ca0a22&height=240&text=SSG%20LANDERS&animation=blink&fontColor=ffffff&fontSize=90" />
     </div>
     <div style="text-align: left;"> 
